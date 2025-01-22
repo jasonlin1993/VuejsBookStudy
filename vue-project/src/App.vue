@@ -6,11 +6,5 @@ const count = ref<number>(0)
 </script>
 
 <template>
-  <div class="wrapper">
-    <h1>{{ message }}</h1>
-    <h1>{{ message }}</h1>
-    <h1>{{ message }}</h1>
-    <h1>{{ message }}</h1>
-    <h1>{{ count }}</h1>
-  </div>
+  <div class="wrapper"></div>
 </template>
